@@ -1,12 +1,11 @@
-# taskmanagmen
-getting error in readme file structure # Task Management System
+# Task Management System
 
-This repository consists of a **Task Management System** with a **backend** built using Node.js and Express, and a **frontend** built using React.
+This repository contains a **Task Management System** with a **backend** built using **Node.js and Express**, and a **frontend** built using **React**.
 
 The application allows users to:
 - Add, edit, and delete tasks.
 - Mark tasks as pending or completed.
-- View task details including description and due date.
+- View task details, including description and due date.
 
 ## Project Structure
 
@@ -22,16 +21,11 @@ Before running the project, ensure you have the following software installed:
 
 ## Setting Up the Project
 
+Follow these steps to set up both the backend and frontend of the project.
+
 ### 1. Clone the Repository
 
-Start by cloning this repository to your local machine:
-bash
-git clone https://github.com/RajeshThangapandi/taskmanagment
-<-------backend---------->
-cd task-manager-backend
-npm install
-node index.js
-<-------frontend---------->
-cd task-manager-frontend
-npm install
-npm start
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/task-management-system
